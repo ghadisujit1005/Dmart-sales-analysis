@@ -6,6 +6,7 @@ This project presents an interactive Power BI dashboard built using the DMart sa
 insights into sales performance, customer behavior, marketing effectiveness, payment patterns, and operational
 efficiency. It helps stakeholders make data-driven decisions to improve overall business growth.
 
+
 Objectives :
 
 Analyze overall sales revenue, transactions, and product performance.
@@ -13,6 +14,7 @@ Understand customer demographics, ratings, and purchase behavior.
 Evaluate marketing channels and their impact on clicks and conversions.
 Track delivery performance, order status, and payment method usage.
 Provide an interactive dashboard for business decision-making.
+
 
 Dataset Description :
 
@@ -29,6 +31,7 @@ Payment Method, Payment Status
 Total Order Value, Shipping Charges
 Year, Month
 
+
 Dashboard Features :
 
 KPIs: Total Products, Total Revenue, Shipping Charges, Transactions, Total Clicks
@@ -37,7 +40,8 @@ Trends: Monthly order trends and day-wise order patterns
 Customer Insights: Ratings, gender-based transactions
 Payment Insights: Payment method distribution
 Product Performance: Best-selling products
-Interactive Filters: Year, month, category, order status, marketing channel, payment method
+Interactive Filters: Year, month, category, order status, marketing channel, payment method.
+
 
 DAX Measures Used :
 
@@ -50,14 +54,16 @@ On-Time Delivery %
 Shipping Charges
 Discount %
 Customer Conversion Rate
-(You can add full DAX formulas in a separate file like DAX_Formulas.md.)
+(You can add full DAX formulas in a separate file like DAX_Formulas.md.).
+
 
 Tools & Technologies :
 
 Power BI Desktop – Data modeling & visualization
 Power Query – Data cleaning and transformation
 DAX – Business metric calculations
-Excel / CSV – Dataset source
+Excel / CSV – Dataset source.
+
 
 Insights & Findings :
 
@@ -66,6 +72,7 @@ Sales remain stable across months with slight weekend spikes.
 Male customers show higher transaction volume than females.
 Debit Card and UPI are the most preferred payment methods.
 Customer ratings are mostly positive, indicating good satisfaction.
+
 
 Conclusion :
 
